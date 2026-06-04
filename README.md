@@ -13,7 +13,7 @@ A high-performance, machine learning-powered anime recommendation engine. This a
 
 ## 🚀 Live Demo
 
-*(Add your Hugging Face Space URL here once deployed)*
+[gyan-ranjan/anime-recommender](https://huggingface.co/spaces/gyan-ranjan/anime-recommender)
 
 ## 🧠 Architecture & Optimization Strategy
 
