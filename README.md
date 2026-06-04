@@ -1,3 +1,12 @@
+---
+title: Anime Recommender
+emoji: 🎌
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+pinned: false
+---
+
 # 🎌 Anime Recommender System
 
 A high-performance, machine learning-powered anime recommendation engine. This application leverages natural language processing to understand the thematic and narrative similarities between thousands of anime, delivering instant, highly accurate recommendations via a fast, modern web interface.
